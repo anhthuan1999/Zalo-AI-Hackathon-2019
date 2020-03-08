@@ -1,6 +1,6 @@
 # Zalo AI Hackathon 2019
 This is my code (project) that participated in Zalo AI Hackathon 2019 (14-15/12/2019) organized by VNG <br/><br/>
-
+Because of its big size, we upload it on google drive that you can take a look: <a href='https://drive.google.com/drive/folders/1SNsi3VuFHt6gUvbS2z7D9uDYVgPAcnzT?usp=sharing' target='_blank'>HERE</a><br/><br/>
 If you want to use this data, you should contact VNG via website: https://hackathon.zalo.ai/<br/><br/>
 If you have any question about coding and other solutions as well as recommendations, please feel free and contact me via email: thuanta17411@st.uel.edu.vn/<br/><br/>
 Thanks for your time.<br/><br/>
